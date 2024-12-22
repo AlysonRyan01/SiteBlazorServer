@@ -1,23 +1,22 @@
-﻿@page "/products/create"
-@using Azure
+﻿@page "/products/edit/{id:int}"
 @using SiteBlazorServer.Models
 @using SiteBlazorServer.Data
 @using Microsoft.EntityFrameworkCore
+@using SiteBlazorServer.Data
 @inject AppDataContext Context;
 @inject NavigationManager NavManager
 
-<h1>Novo Produto</h1>
+<h1>@model?.Title</h1>
 
-<EditForm Model="@model" OnValidSubmit="@HandleSubmit" FormName="name">
-
+<EditForm Model="@model" OnValidSubmit="@HandleSubmit" FormName="Edit">
     <DataAnnotationsValidator/>
     <ValidationSummary/>
 
     <div class="mb-3">
         <label for="Title" class="form-label">Title</label>
-        <InputText id="Title" @bind-Value="model.Title" class="form-control"/>
+        <InputText class="form-control" type="text" id="Title" @bind-Value="model.Title"/>
     </div>
-    
+
     <div class="mb-3">
         <label for="Price" class="form-label">Price</label>
         <InputNumber class="form-control" type="number" id="Price" @bind-Value="model.Price"/>
@@ -43,31 +42,42 @@
     <button class="btn btn-success" type="submit">SAVE</button>
 </EditForm>
 
-
 @code {
-    [SupplyParameterFromForm] 
-    public Product model { get; set; } = new();
+
+    [Parameter]
+    public int Id { get; set; }
+
+    private Product? model = new();
     private List<Category> categories = new();
     private string? errorMessage = null;
 
     protected override async Task OnInitializedAsync()
     {
         categories = await Context.Categories.AsNoTracking().OrderBy(x => x.Title).ToListAsync();
-        model.CategoryId = categories[0].Id;
+        model = await Context.Products.AsNoTracking().FirstOrDefaultAsync(x => x.Id == Id);
     }
-    
+
     private async Task HandleSubmit()
     {
         try
         {
-            await Context.Products.AddAsync(model);
+            var prod = await Context.Products.FirstOrDefaultAsync(x => x.Id == Id);
+            if (prod is null)
+                throw new Exception("Produto não encontrado");
+
+            prod.Title = model.Title;
+            prod.Price = model.Price;
+            prod.CategoryId = model.CategoryId;
+
+            Context.Products.Update(prod);
             await Context.SaveChangesAsync();
             
             NavManager.NavigateTo("/products");
         }
-        catch (NavigationException navEx)
+        catch (Exception ex)
         {
-            errorMessage = "Erro de navegacao";
+            errorMessage = ex.Message;
         }
     }
+
 }

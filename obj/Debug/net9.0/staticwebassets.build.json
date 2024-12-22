@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ucd1j4i5RDuN/f90EhfuJdQFps4y4n/2qBxkYM8QYl0=",
+  "Hash": "PF8M6F0ECvAAA6qImuCRS3uZpPcK/f7J0m9jp1QbrhU=",
   "Source": "SiteBlazorServer",
   "BasePath": "_content/SiteBlazorServer",
   "Mode": "Default",
@@ -458,12 +458,12 @@
       "OriginalItemSpec": "D:\\GitHubRepository\\SiteBlazorServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-vwjoxsowb9.gz",
+      "Identity": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-3o8kps015d.gz",
       "SourceId": "SiteBlazorServer",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SiteBlazorServer",
-      "RelativePath": "SiteBlazorServer#[.{fingerprint=vwjoxsowb9}]?.styles.css.gz",
+      "RelativePath": "SiteBlazorServer#[.{fingerprint=3o8kps015d}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -472,8 +472,8 @@
       "RelatedAsset": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\bundle\\SiteBlazorServer.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "23nlal8sdb",
-      "Integrity": "HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=",
+      "Fingerprint": "ig9bpd8oei",
+      "Integrity": "opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\bundle\\SiteBlazorServer.styles.css"
@@ -605,12 +605,12 @@
       "OriginalItemSpec": "D:\\GitHubRepository\\SiteBlazorServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-vwjoxsowb9.gz",
+      "Identity": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-3o8kps015d.gz",
       "SourceId": "SiteBlazorServer",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SiteBlazorServer",
-      "RelativePath": "SiteBlazorServer#[.{fingerprint=vwjoxsowb9}]!.bundle.scp.css.gz",
+      "RelativePath": "SiteBlazorServer#[.{fingerprint=3o8kps015d}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -619,8 +619,8 @@
       "RelatedAsset": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SiteBlazorServer.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "23nlal8sdb",
-      "Integrity": "HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=",
+      "Fingerprint": "ig9bpd8oei",
+      "Integrity": "opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SiteBlazorServer.bundle.scp.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "vwjoxsowb9",
-      "Integrity": "MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=",
+      "Fingerprint": "3o8kps015d",
+      "Integrity": "Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\bundle\\SiteBlazorServer.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "vwjoxsowb9",
-      "Integrity": "MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=",
+      "Fingerprint": "3o8kps015d",
+      "Integrity": "Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SiteBlazorServer.bundle.scp.css"
@@ -15506,13 +15506,13 @@
       ]
     },
     {
-      "Route": "SiteBlazorServer.bundle.scp.css",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-vwjoxsowb9.gz",
+      "Route": "SiteBlazorServer.3o8kps015d.bundle.scp.css",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-3o8kps015d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000560538117"
+          "Quality": "0.000512820513"
         }
       ],
       "ResponseHeaders": [
@@ -15522,19 +15522,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1783"
+          "Value": "1949"
         },
         {
           "Name": "ETag",
-          "Value": "\"HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=\""
+          "Value": "\"opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -15550,18 +15550,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=\""
+          "Value": "W/\"Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "3o8kps015d"
+        },
+        {
+          "Name": "label",
+          "Value": "SiteBlazorServer.bundle.scp.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80="
+          "Value": "sha256-Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA="
         }
       ]
     },
     {
-      "Route": "SiteBlazorServer.bundle.scp.css",
+      "Route": "SiteBlazorServer.3o8kps015d.bundle.scp.css",
       "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SiteBlazorServer.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15571,7 +15579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5979"
+          "Value": "6564"
         },
         {
           "Name": "Content-Type",
@@ -15579,258 +15587,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=\""
+          "Value": "\"Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80="
-        }
-      ]
-    },
-    {
-      "Route": "SiteBlazorServer.bundle.scp.css.gz",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-vwjoxsowb9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1783"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8="
-        }
-      ]
-    },
-    {
-      "Route": "SiteBlazorServer.styles.css",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-vwjoxsowb9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000560538117"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1783"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80="
-        }
-      ]
-    },
-    {
-      "Route": "SiteBlazorServer.styles.css",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\bundle\\SiteBlazorServer.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5979"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80="
-        }
-      ]
-    },
-    {
-      "Route": "SiteBlazorServer.styles.css.gz",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-vwjoxsowb9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1783"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8="
-        }
-      ]
-    },
-    {
-      "Route": "SiteBlazorServer.vwjoxsowb9.bundle.scp.css",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-vwjoxsowb9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000560538117"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1783"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vwjoxsowb9"
+          "Value": "3o8kps015d"
         },
         {
           "Name": "label",
@@ -15838,13 +15609,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80="
+          "Value": "sha256-Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA="
         }
       ]
     },
     {
-      "Route": "SiteBlazorServer.vwjoxsowb9.bundle.scp.css",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SiteBlazorServer.bundle.scp.css",
+      "Route": "SiteBlazorServer.3o8kps015d.bundle.scp.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-3o8kps015d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15853,7 +15624,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5979"
+          "Value": "1949"
         },
         {
           "Name": "Content-Type",
@@ -15861,56 +15632,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=\""
+          "Value": "\"opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vwjoxsowb9"
-        },
-        {
-          "Name": "label",
-          "Value": "SiteBlazorServer.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80="
-        }
-      ]
-    },
-    {
-      "Route": "SiteBlazorServer.vwjoxsowb9.bundle.scp.css.gz",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-vwjoxsowb9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1783"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15928,7 +15654,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vwjoxsowb9"
+          "Value": "3o8kps015d"
         },
         {
           "Name": "label",
@@ -15936,18 +15662,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8="
+          "Value": "sha256-opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes="
         }
       ]
     },
     {
-      "Route": "SiteBlazorServer.vwjoxsowb9.styles.css",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-vwjoxsowb9.gz",
+      "Route": "SiteBlazorServer.3o8kps015d.styles.css",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-3o8kps015d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000560538117"
+          "Quality": "0.000512820513"
         }
       ],
       "ResponseHeaders": [
@@ -15957,15 +15683,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1783"
+          "Value": "1949"
         },
         {
           "Name": "ETag",
-          "Value": "\"HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=\""
+          "Value": "\"opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15985,13 +15711,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=\""
+          "Value": "W/\"Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vwjoxsowb9"
+          "Value": "3o8kps015d"
         },
         {
           "Name": "label",
@@ -15999,12 +15725,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80="
+          "Value": "sha256-Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA="
         }
       ]
     },
     {
-      "Route": "SiteBlazorServer.vwjoxsowb9.styles.css",
+      "Route": "SiteBlazorServer.3o8kps015d.styles.css",
       "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\bundle\\SiteBlazorServer.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -16014,7 +15740,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5979"
+          "Value": "6564"
         },
         {
           "Name": "Content-Type",
@@ -16022,11 +15748,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80=\""
+          "Value": "\"Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16036,7 +15762,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vwjoxsowb9"
+          "Value": "3o8kps015d"
         },
         {
           "Name": "label",
@@ -16044,13 +15770,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MVQWGP2yhXidhotGt9dNjJSHeYw9AUjfO3dY63KoI80="
+          "Value": "sha256-Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA="
         }
       ]
     },
     {
-      "Route": "SiteBlazorServer.vwjoxsowb9.styles.css.gz",
-      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-vwjoxsowb9.gz",
+      "Route": "SiteBlazorServer.3o8kps015d.styles.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-3o8kps015d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16059,7 +15785,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1783"
+          "Value": "1949"
         },
         {
           "Name": "Content-Type",
@@ -16067,11 +15793,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8=\""
+          "Value": "\"opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 22:38:37 GMT"
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16089,7 +15815,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vwjoxsowb9"
+          "Value": "3o8kps015d"
         },
         {
           "Name": "label",
@@ -16097,7 +15823,281 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HqZvPoVDR1Nf2vVwXR/tHvcjJ6bEKG4W7/s254uMFq8="
+          "Value": "sha256-opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes="
+        }
+      ]
+    },
+    {
+      "Route": "SiteBlazorServer.bundle.scp.css",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-3o8kps015d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000512820513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1949"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA="
+        }
+      ]
+    },
+    {
+      "Route": "SiteBlazorServer.bundle.scp.css",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SiteBlazorServer.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA="
+        }
+      ]
+    },
+    {
+      "Route": "SiteBlazorServer.bundle.scp.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\lkpoalo3ix-3o8kps015d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes="
+        }
+      ]
+    },
+    {
+      "Route": "SiteBlazorServer.styles.css",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-3o8kps015d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000512820513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1949"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA="
+        }
+      ]
+    },
+    {
+      "Route": "SiteBlazorServer.styles.css",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\scopedcss\\bundle\\SiteBlazorServer.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ha7vs4+z9dbkUKfYffGs6+goW024TxNG6FRd1CnNbZA="
+        }
+      ]
+    },
+    {
+      "Route": "SiteBlazorServer.styles.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\SiteBlazorServer\\obj\\Debug\\net9.0\\compressed\\fjjifk6kpj-3o8kps015d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 01:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-opFHbnL3UphyrgCPHu9cAt/hm88Yg7j+duNRCsmxbes="
         }
       ]
     }

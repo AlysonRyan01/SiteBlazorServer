@@ -48,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0c1xDcmVhdGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/GitHubRepository/SiteBlazorServer/Components/Pages/Products/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0c1xFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/GitHubRepository/SiteBlazorServer/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -63,3 +67,7 @@ build_metadata.AdditionalFiles.CssScope = b-vix2icoym8
 [D:/GitHubRepository/SiteBlazorServer/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-4doxsxjj9i
+
+[D:/GitHubRepository/SiteBlazorServer/Components/Pages/Products/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0c1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-udjj2tcnl5

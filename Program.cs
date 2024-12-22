@@ -19,9 +19,10 @@ void AppConfigure(WebApplication app)
     }
     
     app.UseHttpsRedirection();
-
+    app.UseRouting();
 
     app.UseAntiforgery();
+    
 
     app.MapStaticAssets();
     app.MapRazorComponents<App>()

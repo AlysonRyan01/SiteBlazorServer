@@ -203,3 +203,31 @@ main[b-vix2icoym8] {
         overflow-y: auto;
     }
 }
+/* _content/SiteBlazorServer/Components/Pages/Products/Index.razor.rz.scp.css */
+.select[b-udjj2tcnl5]
+{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    height: auto;
+}
+
+h1[b-udjj2tcnl5]
+{
+    justify-self: center;
+}
+
+.espaco[b-udjj2tcnl5]
+{
+    margin: 1em;
+    justify-self: center;
+    color: black;
+    border-radius: 20px;
+    padding: 2em;
+    width:70%;
+    height: fit-content;
+    background-color: transparent;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}

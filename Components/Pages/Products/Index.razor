@@ -1,0 +1,37 @@
+﻿@page "/products"
+@using Microsoft.EntityFrameworkCore
+@using SiteBlazorServer.Data
+@using SiteBlazorServer.Models
+@inject AppDataContext _context
+
+<h1>Products</h1>
+
+
+<div class="select">
+    @foreach (var product in Products)
+    {
+        <div class="espaco">
+            <p>@product.Title</p>
+            <p>@product.Price</p>
+        </div>
+    }
+</div>
+
+
+@code {
+    public List<Product> Products { get; set; } = new();
+    
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Products = await _context.Products.AsNoTracking().ToListAsync();
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            throw;
+        }
+    }
+
+}
